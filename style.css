@@ -18,13 +18,13 @@
 }
 
 p{
-    background-color: aqua;
+    background-color: rgb(140, 0, 255);
 }
 
 
 @media screen and (max-width: 480px) {
     body {
-      background-color: lightgreen;
+      background-color: rgb(110, 6, 255);
     }
 
     #box1{
